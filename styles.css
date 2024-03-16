@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 12px 0 8px 52px;
+    font-size: 22px;
+}
+
+p {
+    margin: 0 0 20px 52px;
+    font-size: 14px;
+}
+
+table, tbody, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 11px 185px 12px 15px;
+    margin: 0 52px 0 52px;
+    text-align: left;
+    font-size: 14px;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 7px 35px;
+    margin: 22px 0 0 52px;
+    background-color: black;
+    color: white;
+    font-size: 9px;
+    cursor: pointer;
+}
